@@ -4,8 +4,8 @@ Esse projeto tem como objetivo demonstrar minhas habilidades técnicas para vaga
 
 ## Autor
 
-- Rômulo Fernando Silva Souza - [@fssromulo](https://www.github.com/fssromulo)
-
+- [Github](https://www.github.com/fssromulo)
+- [LinkedIn](https://www.linkedin.com/in/fssromulo/)
 
 ## Instalação
 
