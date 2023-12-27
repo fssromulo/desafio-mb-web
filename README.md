@@ -25,3 +25,4 @@ Execute o comando a seguir para executar o projeto. Esse comando contempla a exe
 ```bash
   npm dev
 ```
+Acessar no navegador pelo link: [App localhost](http://localhost:5173/)
